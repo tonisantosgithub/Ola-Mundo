@@ -12,3 +12,5 @@
 :up: atualizacão
 :beatle: correccão de bug
 :chekered_flag: release 
+
+Esta linha foi adicionado diretamente no Readme
