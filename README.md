@@ -2,6 +2,8 @@
  Primeiro repositorio do curso Github
 
  repositorio criado numa aula ao vivo
+ 
+ Esta linha foi adicionado diretamente no Readme
  ## Tarefas 
 
  o controlo das tarefas sera realizado no GitHub
@@ -13,4 +15,4 @@
 :beatle: correccão de bug
 :chekered_flag: release 
 
-Esta linha foi adicionado diretamente no Readme
+
